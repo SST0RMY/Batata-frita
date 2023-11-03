@@ -8,17 +8,16 @@
 - de
 - sabor
 
-#Batata frita
+# Batata frita
 
 É uma tara de sabor
 
 
 
 
-'''python 
+```python 
 print("Batata frita pala pala")
-print ("é uma tara de sabor")
-
-'''
+print("é uma tara de sabor")
+```
 
 
