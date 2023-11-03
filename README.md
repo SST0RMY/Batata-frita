@@ -1,8 +1,7 @@
-# Batata frita
 
+## Batata frita
 
-
-## **Pala** pala
+### **Pala** pala
 
 É uma tara de sabor
 
